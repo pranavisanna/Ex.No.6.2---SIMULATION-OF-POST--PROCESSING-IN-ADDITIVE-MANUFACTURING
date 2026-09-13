@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Pranavi S
+### Register Number: 212225040311
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/03bb53a3-7d17-4563-9fe8-9e8399837810" />
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/e3802bd5-d6cd-45c4-b3b0-b20a9aa52523" />
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/5f83d771-4672-48e1-aa83-3d052344b8ee" />
+
+
+
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
